@@ -1,0 +1,5 @@
+teradatasql
+subprocess
+cx_Oracle
+requests
+urllib3
